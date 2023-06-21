@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Caching\CacheNameSpaceTrait&quot; not found in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/src/Caching/WPCacheEngine.php</b> on line <b>8</b><br>

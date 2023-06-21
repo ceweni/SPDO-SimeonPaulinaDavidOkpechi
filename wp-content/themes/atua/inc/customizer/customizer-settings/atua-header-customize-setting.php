@@ -1,0 +1,5 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function add_action() in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/themes/atua/inc/customizer/customizer-settings/atua-header-customize-setting.php:308
+Stack trace:
+#0 {main}
+  thrown in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/themes/atua/inc/customizer/customizer-settings/atua-header-customize-setting.php</b> on line <b>308</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\StoreApi\Utilities\DraftOrderTrait&quot; not found in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Utilities/CartController.php</b> on line <b>23</b><br>
