@@ -361,7 +361,7 @@ select.iepammpro-menu-locations-lists {
 
 /* The Modal (background) */
 .iepa_menu_wrapper .iepa_overlay {
-  background-image: url('https://localhost:10009/wp-content/plugins/ibtana-ecommerce-product-addons/addons/ibtana-mega-menu/images/ajax-loader.svg');
+  background-image: url('https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/plugins/ibtana-ecommerce-product-addons/addons/ibtana-mega-menu/images/ajax-loader.svg');
   background-repeat: no-repeat;
   background-size: 100px;
   background-position: center;
@@ -2841,7 +2841,7 @@ table for text and image section
 }
 
 span.imma-ajax-loader {
-  background: rgba(0, 0, 0, 0) url("https://localhost:10009/wp-content/plugins/ibtana-ecommerce-product-addons/addons/ibtana-mega-menu/images/ajax-loader.svg") no-repeat scroll center center;
+  background: rgba(0, 0, 0, 0) url("https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/plugins/ibtana-ecommerce-product-addons/addons/ibtana-mega-menu/images/ajax-loader.svg") no-repeat scroll center center;
   display: inline-block;
   height: 16px;
   margin-left: 10px;

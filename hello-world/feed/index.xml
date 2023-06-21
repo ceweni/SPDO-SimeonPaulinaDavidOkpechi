@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=11399" rel="self" type="application/rss+xml" />
-	<link>https://localhost:10009/hello-world/</link>
+	<atom:link href="http://localhost/hello-world/feed/?simply_static_page=21127" rel="self" type="application/rss+xml" />
+	<link>https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/hello-world/</link>
 	<description>Simeon Paulina David Okpechi Tax &#38; Consultancy Services</description>
 	<lastBuildDate>Sat, 27 May 2023 05:19:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://localhost:10009/hello-world/#comment-1</link>
+		<link>https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 05:19:35 +0000</pubDate>
-		<guid isPermaLink="false">https://localhost:10009/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

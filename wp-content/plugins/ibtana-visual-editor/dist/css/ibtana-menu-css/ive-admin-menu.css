@@ -2076,7 +2076,7 @@ a[href*="admin.php?page=ibtana_app_"]:not([href="admin.php?page=ibtana_app_appoi
 
 /* a[href="admin.php?page=ibtana-visual-editor-envato"]::before {
   color: #81b441 !important;
-  content: url('https://localhost:10009/wp-content/plugins/ibtana-visual-editor/dist/css/ibtana-menu-css/envato-icon.svg');
+  content: url('https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/plugins/ibtana-visual-editor/dist/css/ibtana-menu-css/envato-icon.svg');
 } */
 a[href="admin.php?page=ibtana-visual-editor-envato"] {
   color: #81b441 !important;

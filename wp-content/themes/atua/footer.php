@@ -4,7 +4,7 @@
 	</svg>
 	<div class="pattern-layer">
 		<div class="pattern-1 footer-shape"></div>
-		<div class="pattern-2" style="background-image: url(https://localhost:10009/wp-content/themes/atua/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/themes/atua/footer.php:8
+		<div class="pattern-2" style="background-image: url(https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/themes/atua/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/themes/atua/footer.php:8
 Stack trace:
 #0 {main}
   thrown in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/themes/atua/footer.php</b> on line <b>8</b><br />"></div>

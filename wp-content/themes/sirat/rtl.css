@@ -146,7 +146,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="phno"]:focus, i
   padding:0; 
 }
 .sticky .post-main-box h3{
-  background: url(https://localhost:10009/wp-content/themes/sirat/assets/images/pin.png) no-repeat scroll 100% 0px;
+  background: url(https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/themes/sirat/assets/images/pin.png) no-repeat scroll 100% 0px;
   padding-right: 40px;
 }
 .gallery-caption{ 
@@ -435,7 +435,7 @@ p.site-description {
 }
 .serach_inner input.search-submit {
   padding: 10px 25px;
-  background: url(https://localhost:10009/wp-content/themes/sirat/assets/images/search.png) no-repeat scroll 100% 8px;
+  background: url(https://ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/themes/sirat/assets/images/search.png) no-repeat scroll 100% 8px;
   font-size: 13px;
   text-align: center;
   float: left;
