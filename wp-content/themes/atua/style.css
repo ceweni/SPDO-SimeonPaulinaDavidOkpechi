@@ -1,0 +1,39 @@
+/*
+Theme Name: 	   Atua
+Text Domain: 	   atua
+Version:            1.0.17
+Tested up to:       6.2
+Requires at least:  4.7
+Requires PHP:       5.6
+Author:             DesertThemes
+Author URI:         https://desertthemes.com/
+Theme URI:          https://desertthemes.com/themes/atua-free/
+Description:        Atua is lightweight, highly extendable and multi-purpose WordPress Theme, it will enable you to create almost any type of website with a beautiful & professional design. Atua supports popular WordPress plugins such as Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, and much more. Atua Pro demo https://preview.desertthemes.com/pro/atua/
+Tags:               one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+License: GPLv3 or later
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+ */
+ 
+ .search--header .dt_search-form,
+ input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], textarea,
+ button[type=submit], button, input[type='button'], input[type='reset'], input[type='submit'], .dt-btn, .button:not(.add_to_cart_button) {
+    border-radius: 100px;
+}
+
+.parallax_none {
+    transform: translate(0);
+}
+
+.parallax-bg {
+    top: -30%;
+    width: 100%;
+    height: 150%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
