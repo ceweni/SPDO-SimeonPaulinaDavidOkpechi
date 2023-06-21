@@ -9536,7 +9536,7 @@ button.dt_uptop {
     overflow: hidden;
     position: relative;
     padding: 3rem;
-    background: var(--dt-gray2-color) url('/ceweni.github.io/SPDO-SimeonPaulinaDavidOkpechi/wp-content/themes/atua/assets/images/shape/shape_0.svg') no-repeat top right / 7.2rem;
+    background: var(--dt-gray2-color) url('https://localhost:10009/wp-content/themes/atua/assets/images/shape/shape_0.svg') no-repeat top right / 7.2rem;
     border: 0.1rem solid rgba(189, 189, 189, 0.2);
     border-radius: 0.8rem;
 }
