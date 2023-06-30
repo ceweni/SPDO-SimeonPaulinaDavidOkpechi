@@ -4,7 +4,7 @@ Tags: blocks, website builder, gutenberg, One click demo Import, templates, page
 Requires at least: 5.2
 Tested up to: 6.2.2
 Requires PHP: 7.2
-Stable tag: 1.2.0.2
+Stable tag: 1.2.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -135,7 +135,10 @@ Add contact form to your page with reCaptcha.
 
 == Changelog ==
 
-= 1.2.0.2 - 2023-20-06 =
+= 1.2.0.3 - 2023-27-06 =
+* **Added** - Added New CSS Settings In Advanced Text Block.
+
+= 1.2.0.2 - 2023-19-06 =
 * **Added** - Added New Settings In Advanced Text Block.
 
 = 1.2.0.1 - 2023-13-06 =
