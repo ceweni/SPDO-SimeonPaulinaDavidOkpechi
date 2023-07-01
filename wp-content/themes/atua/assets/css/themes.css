@@ -11471,3 +11471,17 @@ a.wc-block-grid__product-link {
     padding: 0.25em 0 8px 0;
     border-bottom: 1px solid #eaeaea;
 }
+
+.wc-block-grid__product-price.price del {
+    padding-right: 10px;
+    color: #848484;
+    opacity: .6;
+}
+
+.wc-block-grid__product-price.price ins span {
+    color: var(--dt-pri-color);
+}
+
+.wc-block-grid__product-price.price ins{
+	text-decoration: none;
+}

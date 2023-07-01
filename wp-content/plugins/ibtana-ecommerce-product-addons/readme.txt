@@ -2,9 +2,9 @@
 Contributors: VowelWeb
 Tags: woocommerce addons, gutenberg, templates, product page
 Requires at least: 5.0
-Tested up to: 6.2
+Tested up to: 6.2.2
 Requires PHP: 7.2
-Stable tag: 0.4.4.2
+Stable tag: 0.4.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,7 +71,10 @@ This Block allows you to construct and customize your product Meta fields. Selec
 
 == Changelog ==
 
-= 0.4.4.2 - 2023-20-06 =
+= 0.4.4.3 - 2023-27-06 =
+* Added New CSS Settings in Product Price.
+
+= 0.4.4.2 - 2023-19-06 =
 * Added New Settings in Product Price.
 
 = 0.4.4.1 - 2023-13-06 =
