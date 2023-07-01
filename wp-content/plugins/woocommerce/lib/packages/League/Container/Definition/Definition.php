@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Vendor\League\Container\Argument\ArgumentResolverTrait&quot; not found in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/lib/packages/League/Container/Definition/Definition.php</b> on line <b>12</b><br>
