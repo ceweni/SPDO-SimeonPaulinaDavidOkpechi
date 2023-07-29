@@ -3,7 +3,7 @@ Contributors: DesertThemes
 Requires at least: 4.7
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 1.0.18
+Stable tag: 1.0.25
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -76,6 +76,27 @@ License: Creative Commons Zero
 License: Creative Commons Zero
 
 == Changelog ==
+
+@version 1.0.25
+* Fixed - Custom Header Color Issue
+
+@version 1.0.24
+* Updated - Blog Pages Post Style
+
+@version 1.0.23
+* Added - Child Theme Code
+
+@version 1.0.22
+* Style improvements - Block Post Author
+
+@version 1.0.21
+* Style improvements - Block Post Date
+
+@version 1.0.20
+* Style improvements - Block Page List
+
+@version 1.0.19
+* Style improvements - Block Author Image  
 
 @version 1.0.18
 * Style improvements - Woocommerce Product Price 

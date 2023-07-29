@@ -2,7 +2,7 @@
 Theme Name: 	   Atus
 Text Domain: 	   atus
 Template: 			atua
-Version:            1.0.5
+Version:            1.0.9
 Tested up to:       6.2
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -758,4 +758,23 @@ a.wc-block-grid__product-link {
 
 .wc-block-grid__product-price.price ins{
     text-decoration: none;
+}
+
+.wp-block-post-author__avatar img {
+    border-radius: 100%;
+}
+
+ul.wp-block-page-list a {
+    text-decoration: none;
+}
+
+.wp-block-latest-posts__post-date {
+    font-weight: 500;
+    color: var(--dt-pri-color);
+}
+
+.wp-block-latest-posts__post-author {
+    font-size: 1.7rem;
+    color: var(--dt-sec-color);
+    font-weight: 600;
 }
