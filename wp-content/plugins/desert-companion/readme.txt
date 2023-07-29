@@ -3,7 +3,7 @@ Contributors: Desertthemes
 Tags: projects, widgets, admin, companion, homepage
 Requires at least: 4.6 or higher
 Tested up to: 6.2
-Stable tag: 1.0.35
+Stable tag: 1.0.42
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -28,6 +28,7 @@ Desert Companion Enhances Desert Themes with additional functionality.
 10. Flexeo
 11. Altra
 12. Avvy
+13. Atus
 
 == License ==
 
@@ -36,6 +37,27 @@ Desert Companion WordPress plugin is licensed under the GPL3 (https://www.gnu.or
 
 
 == Changelog ==
+
+= 1.0.42 =
+* Atrux Theme Files Updated
+
+= 1.0.41 =
+* Slider Form & Video Functionality Removed From Softme
+
+= 1.0.40 =
+* Flexea Theme Files Updated
+
+= 1.0.39 =
+* CozySoft Upgrade Link Added
+
+= 1.0.38 =
+* CozySoft Theme Files Updated
+
+= 1.0.37 =
+* Softinn Upgrade Link Added
+
+= 1.0.36 =
+* Updated - Readme
 
 = 1.0.35 =
 * Tested - By WordPress 6.2.2

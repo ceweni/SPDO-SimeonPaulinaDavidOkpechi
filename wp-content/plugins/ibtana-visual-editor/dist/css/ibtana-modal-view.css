@@ -299,7 +299,7 @@ button.collapse-sidebar.button {
   background: linear-gradient(#6ccef5, #016194) !important;
 }
 
-.wp-core-ui .button, .wp-core-ui .button-secondary {
+.wp-core-ui .button, .wp-core-ui .ive-ibtana-wizard-button-wrapper .ibtana-button-wrap .button-secondary {
   color: #fff;
   border: none;
   vertical-align: top;

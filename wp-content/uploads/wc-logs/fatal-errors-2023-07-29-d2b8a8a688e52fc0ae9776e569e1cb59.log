@@ -1,0 +1,70 @@
+2023-07-29T06:32:13+00:00 CRITICAL Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:271
+Stack trace:
+#0 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(271): explode('\n', Array)
+#1 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(61): Simply_Static\Fetch_Urls_Task->find_excludable(Object(Simply_Static\Page))
+#2 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#3 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#4 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(175): WP_Background_Process->handle()
+#5 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#6 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#9 {main}
+  thrown in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 271
+
+2023-07-29T06:35:20+00:00 CRITICAL Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:271
+Stack trace:
+#0 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(271): explode('\n', Array)
+#1 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(61): Simply_Static\Fetch_Urls_Task->find_excludable(Object(Simply_Static\Page))
+#2 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#3 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#4 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(175): WP_Background_Process->handle()
+#5 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#6 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#9 {main}
+  thrown in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 271
+
+2023-07-29T07:24:40+00:00 CRITICAL Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:271
+Stack trace:
+#0 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(271): explode('\n', Array)
+#1 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(61): Simply_Static\Fetch_Urls_Task->find_excludable(Object(Simply_Static\Page))
+#2 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#3 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#4 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(175): WP_Background_Process->handle()
+#5 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#6 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#9 {main}
+  thrown in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 271
+
+2023-07-29T07:26:06+00:00 CRITICAL Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:271
+Stack trace:
+#0 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(271): explode('\n', Array)
+#1 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(61): Simply_Static\Fetch_Urls_Task->find_excludable(Object(Simply_Static\Page))
+#2 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#3 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#4 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(175): WP_Background_Process->handle()
+#5 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#6 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#9 {main}
+  thrown in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 271
+
+2023-07-29T07:29:09+00:00 CRITICAL Uncaught TypeError: explode(): Argument #2 ($string) must be of type string, array given in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:271
+Stack trace:
+#0 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(271): explode('\n', Array)
+#1 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php(61): Simply_Static\Fetch_Urls_Task->find_excludable(Object(Simply_Static\Page))
+#2 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/class-ss-archive-creation-job.php(142): Simply_Static\Fetch_Urls_Task->perform()
+#3 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(301): Simply_Static\Archive_Creation_Job->task('fetch_urls')
+#4 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/includes/libraries/wp-background-process.php(175): WP_Background_Process->handle()
+#5 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(308): WP_Background_Process->maybe_handle('')
+#6 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-admin/admin-ajax.php(188): do_action('wp_ajax_wp_arch...')
+#9 {main}
+  thrown in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 271
+

@@ -51,10 +51,10 @@
 				<!-- wp:paragraph {"align":"right","style":{"typography":{"fontSize":"12px"}}} -->
 				<p class="has-text-align-right" style="font-size:12px">
 					<br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function __() in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/patterns/footer-with-3-menus.php:60
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html() in /Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/patterns/footer-with-3-menus.php:61
 Stack trace:
 #0 {main}
-  thrown in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/patterns/footer-with-3-menus.php</b> on line <b>60</b><br>
+  thrown in <b>/Users/chukwunonsoeweni/Local Sites/spdo/app/public/wp-content/plugins/woocommerce/packages/woocommerce-blocks/patterns/footer-with-3-menus.php</b> on line <b>61</b><br>
 </p>
 </div>
 </div>
