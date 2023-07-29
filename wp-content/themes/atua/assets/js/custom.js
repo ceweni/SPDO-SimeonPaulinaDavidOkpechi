@@ -346,6 +346,22 @@
         anim();
     }
     
+	/* ==========================================================================
+    Services Active Nine
+    ========================================================================== */
+    if ($(".dt_service--nine").length) {
+        $('.dt_service--nine .dt_item_inner').hover(function () {
+            $(this).find('.dt_item_hover').slideToggle(300);
+            return false;
+        });
+        $('.dt_service--nine .dt_item_inner').hover(function () {
+            $(this).find('.dt_item_holder .dt_item_title').slideToggle(300);
+            $(this).find('.dt_item_holder .dt_item_content').slideToggle(300);
+            $(this).find('.dt_item_icon').slideToggle(300);
+            return true;
+        });
+    }
+	
     /* ==========================================================================
     When document is loaded, do
     ========================================================================== */
